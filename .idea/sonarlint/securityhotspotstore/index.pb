@@ -13,3 +13,5 @@ S
 #tests/preservation-protocol.test.ts,b/0/b0d88eeb985d46bd670bebf9324a406c523f1837
 N
 contracts/relic-discovery.clar,5/4/5483945067d929f3cf76623963d88aeba222e0ff
+M
+tests/relic-discovery.test.ts,f/7/f7c85f2c30f2103df2b3555cd7abeae47ab6f34d
