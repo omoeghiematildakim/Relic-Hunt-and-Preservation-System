@@ -10,8 +10,8 @@ path = 'contracts/authentication-process.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.cosmic-relic-marketplace]
-path = 'contracts/cosmic-relic-marketplace.clar'
+[contracts.preservation-protocol]
+path = 'contracts/preservation-protocol.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]

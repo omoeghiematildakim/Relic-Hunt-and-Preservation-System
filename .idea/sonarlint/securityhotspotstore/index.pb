@@ -7,3 +7,5 @@ T
 $tests/authentication-process.test.ts,3/d/3de6770bbc63dc9966305c7b959fcd68e39972df
 W
 'contracts/cosmic-relic-marketplace.clar,8/9/8950b1cbed0edf7b75890ea865086a24c283b35d
+T
+$contracts/preservation-protocol.clar,c/7/c7e72c10c7e2fcabc0af28322cb2ef3f594a1775
