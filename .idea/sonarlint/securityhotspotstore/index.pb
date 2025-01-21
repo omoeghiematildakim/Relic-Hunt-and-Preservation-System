@@ -9,3 +9,7 @@ W
 'contracts/cosmic-relic-marketplace.clar,8/9/8950b1cbed0edf7b75890ea865086a24c283b35d
 T
 $contracts/preservation-protocol.clar,c/7/c7e72c10c7e2fcabc0af28322cb2ef3f594a1775
+S
+#tests/preservation-protocol.test.ts,b/0/b0d88eeb985d46bd670bebf9324a406c523f1837
+N
+contracts/relic-discovery.clar,5/4/5483945067d929f3cf76623963d88aeba222e0ff
